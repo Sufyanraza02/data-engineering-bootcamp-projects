@@ -1,6 +1,5 @@
 🔍 Exploratory Data Analysis w/ SQL: Job Market Analytics
-![Diagram](resources/project1_eda.jpg)
-
+![EDA Project](../resources/project1_eda.jpg)
 
 
 A SQL project analyzing the data engineer job market using real world job posting data. It demonstrates my ability to write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights.
@@ -17,6 +16,7 @@ If you only have a minute, review these:
 03_optimal_skills.sql – combined demand/salary optimization query
 🧩 Problem & Context
 Job market analysts need to answer questions like:
+![EDA Project](../resources/Data_Warehouse.png)
 
 🎯 Most in-demand: Which skills are most in-demand for data engineers?
 💰 Highest paid: Which skills command the highest salaries?
